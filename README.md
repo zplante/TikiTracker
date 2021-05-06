@@ -1,4 +1,5 @@
 # TikiTracker
+Update: Due to GeekiTiki restructuring their website (as well creating new channels to be updated on their products) this code is now out of date. I will not be updating it but I am leaving it up for future reference.
 ## Simple script to check a website for updates
 #### So whats this all about?
 I wanted the ability to see when a webiste added new content without having to check it everyday, which resulted in TikiTracker!
